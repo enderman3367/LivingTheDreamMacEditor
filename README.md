@@ -1,4 +1,4 @@
-# installation insctrutions:
+# INSTALLATION:
 open macos-instasll.dmg, drag tool to applications and double click to launch.
 apple may quarantine the file because i didnt sign it (its a simple fork of a python app, thank you Timimimi.) you can fix this by running 
 
