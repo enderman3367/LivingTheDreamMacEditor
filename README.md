@@ -20,4 +20,4 @@ the app will display the original image, and you can replace it by uploading you
 theres this weird bug where an image will look broken. this is because we didnt replace the _thumb. to fix this, go into the facepaint editor or palette house and open the design as if to edit it. your uploaded image should appear. save, and now you’re all done!
 
 
-# in the future you can expect save editing outside of facepaint. including a better UI. map editor is next.
+# in the future you can expect save editing outside of facepaint. --including a better UI.-- map editor is next.
