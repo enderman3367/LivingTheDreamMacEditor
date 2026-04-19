@@ -3,7 +3,7 @@ thank you Timimimi for making the original python app on windows
 in releases (to your right), download and open macos-install.dmg, drag tool to applications and double click to launch.
 apple may quarantine the file because i didnt sign it (its a simple fork of a python app, thank you Timimimi.) you can fix this by running 
 
-xattr -dr com.apple.quarantine path/to/app
+| xattr -dr com.apple.quarantine path/to/app
 
 in your terminal.
 
